@@ -1,2 +1,2 @@
 # Blow-Molding-machine
-This is for Blow molding machine programs made by me.
+This is for Blow molding machine GUI programs. Used JS, Modbus, WYSWIG GUI Builder
