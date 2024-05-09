@@ -6,7 +6,7 @@
 
 ## Industrial communication protocols used is ## Modbus. 
 
-## The main challenging part of this projject is to design a dynamic graph using interplation algorithms and control the thickness of plastic in realtime.
+## The main challenging part of this project was to design a dynamic graph using interplation algorithms and control the thickness of plastic using interpolation in realtime.
 
 ## WYSWIG GUI Builder
 
