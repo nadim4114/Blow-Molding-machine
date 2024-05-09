@@ -1,4 +1,4 @@
-# Blow-Molding-machine
+## GUI Blow-Molding-machine
 ##This is GUI of a Extrusion Blow molding machine. 
 #Languages used are JavaScript for scription frontend and c language for backend logic. 
 #Industrial communication protocols used is ##Modbus. 
