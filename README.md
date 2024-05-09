@@ -10,13 +10,13 @@
 
 ## WYSWIG GUI Builder
 
-# Screenshot of a project of Blow Molding Machine GUI.
+## Screenshot of a project of Blow Molding Machine GUI.
 ![](https://github.com/nadim4114/Blow-Molding-machine-GUI/blob/main/Screenshot%202024-03-26%20143256.png)
 
-# Screenshot of a graph used to control the thickness of plastic GUI.
+## Screenshot of a graph used to control the thickness of plastic GUI.
 ![](https://github.com/nadim4114/Blow-Molding-machine-GUI/blob/main/Screenshot%202024-03-26%20143325.png)
 
-# Screenshot of a graph used to control the thickness of plastic GUI.
+## Screenshot of a graph used to control the thickness of plastic GUI.
 ![](https://github.com/nadim4114/Blow-Molding-machine-GUI/blob/main/Screenshot%202024-03-26%20143528.png)
 
 
