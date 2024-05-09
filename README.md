@@ -1,8 +1,13 @@
 ## GUI Blow-Molding-machine
+
 ##This is GUI of a Extrusion Blow molding machine. 
+
 #Languages used are JavaScript for scription frontend and c language for backend logic. 
+
 #Industrial communication protocols used is ##Modbus. 
+
 #The main challenging part of this projject is to design a dynamic graph using interplation algorithms and control the thickness of plastic in realtime.
+
 #WYSWIG GUI Builder
 
 # Screenshot of a project of Blow Molding Machine GUI.
